@@ -2,7 +2,7 @@
 import 'package:get/get.dart';
 import 'package:image_picker/image_picker.dart';
 
-class FormImage extends GetxController {
+class UserImage extends GetxController {
   final userAvatar = 'lib/assets/pokiman.png'.obs;
 
   var imgPath=''.obs; 

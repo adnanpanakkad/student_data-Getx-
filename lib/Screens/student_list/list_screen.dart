@@ -1,10 +1,10 @@
 import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:studentgetx/getx/list/list_image.dart';
+import 'package:studentgetx/getx/list/student_image.dart';
 import 'package:studentgetx/getx/list/student_data.dart';
 
-FormImage imageController = Get.put(FormImage());
+UserImage imageController = Get.put(UserImage());
 FormFunctions studentFormController = Get.put(FormFunctions());
 
 class ScreenForm extends StatelessWidget {

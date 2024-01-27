@@ -10,6 +10,7 @@ import 'package:studentgetx/screens/search/search_screen.dart';
 class ScreenHome extends StatelessWidget {
   const ScreenHome({super.key});
 
+  
   @override
   Widget build(BuildContext context) {
     final studentDB = Get.put(StudentDB());
