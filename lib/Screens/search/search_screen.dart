@@ -14,7 +14,7 @@ class SearchStudent extends SearchDelegate {
           onPressed: () {
             query = '';
           },
-          icon: const Icon(Icons.clear))
+          icon:  Icon(Icons.clear))
     ];
   }
 
@@ -51,7 +51,7 @@ class SearchStudent extends SearchDelegate {
                       ),
                     ),
                     title:
-                        Text(data.name, style: const TextStyle(fontSize: 20)),
+                        Text(data.name, style:  TextStyle(fontSize: 20)),
                   ),
                   const Divider()
                 ],

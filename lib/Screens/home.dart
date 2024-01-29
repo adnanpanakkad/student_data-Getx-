@@ -2,8 +2,8 @@ import 'dart:io';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:studentgetx/Screens/profile/profile.dart';
-import 'package:studentgetx/Screens/student_list/list_screen.dart';
+import 'package:studentgetx/screens/profile/profile.dart';
+import 'package:studentgetx/screens/student_list/list_screen.dart';
 import 'package:studentgetx/getx/Db/db_functions.dart';
 import 'package:studentgetx/screens/search/search_screen.dart';
 

@@ -1,7 +1,7 @@
 import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:studentgetx/Screens/student_list/list_screen.dart';
+import 'package:studentgetx/screens/student_list/list_screen.dart';
 import 'package:studentgetx/getx/Db/db_functions.dart';
 
 class ScreenProfile extends StatelessWidget {
