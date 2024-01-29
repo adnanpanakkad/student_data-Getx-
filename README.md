@@ -1,7 +1,6 @@
 # student_list_getx
 
-A new Flutter project.
-
+This app is using for student detailes handling.it  developed by the state managment libery Getx, and provider. 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
